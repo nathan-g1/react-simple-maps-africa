@@ -23,7 +23,7 @@ const rounded = (num, s) => {
 };
 
 
-const MapChart = ({ setTooltipContent, setMovieDataContent }) => {
+const MapChart = ({ setTooltipContent, setMovieDataContent, setImageContent }) => {
 
     const history = useHistory();
 
@@ -44,12 +44,15 @@ const MapChart = ({ setTooltipContent, setMovieDataContent }) => {
                                 geography={geo}
                                 onMouseEnter={() => {
                                     const { geounit, totalmovies } = geo.properties;
+                                    const { image } = geo.properties;
                                     setTooltipContent(`${geounit} — ${rounded(totalmovies, geo)}`);
                                     setMovieDataContent(totalmovies);
+                                    setImageContent(image);
                                 }}
                                 onMouseLeave={() => {
                                     setTooltipContent("");
                                     setMovieDataContent("");
+                                    setImageContent("");
                                 }}
                                 onClick={() => {
                                     const { geounit } = geo.properties;

@@ -4634,6 +4634,7 @@ const africa = {
           ],
           "type": "MultiPolygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Angola"
@@ -4649,6 +4650,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Burundi"
@@ -4666,6 +4668,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Benin"
@@ -4684,6 +4687,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Burkina Faso"
@@ -4692,6 +4696,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo subunit",
             "geounit": "French Southern and Antarctic Lands"
@@ -4707,6 +4712,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Botswana"
@@ -4725,6 +4731,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Central African Republic"
@@ -4743,6 +4750,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Ivory Coast"
@@ -4762,6 +4770,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Cameroon"
@@ -4785,6 +4794,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Democratic Republic of the Congo"
@@ -4803,6 +4813,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Republic of Congo"
@@ -4811,6 +4822,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Comoros"
@@ -4819,6 +4831,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Cape Verde"
@@ -4835,6 +4848,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Djibouti"
@@ -4855,6 +4869,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Algeria"
@@ -4870,6 +4885,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Egypt"
@@ -4886,6 +4902,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Eritrea"
@@ -4899,6 +4916,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo subunit",
             "geounit": "Spain"
@@ -4919,6 +4937,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Ethiopia"
@@ -4927,6 +4946,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo subunit",
             "geounit": "French Southern and Antarctic Lands"
@@ -4943,6 +4963,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Gabon"
@@ -4961,6 +4982,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ghana.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Ghana"
@@ -4980,6 +5002,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Guinea"
@@ -4994,6 +5017,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Gambia"
@@ -5002,6 +5026,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo subunit",
             "geounit": "Equatorial Guinea"
@@ -5017,6 +5042,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Guinea Bissau"
@@ -5025,6 +5051,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo subunit",
             "geounit": "Equatorial Guinea"
@@ -5040,6 +5067,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo subunit",
             "geounit": "Equatorial Guinea"
@@ -5048,6 +5076,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 122223,
             "type": "Geo subunit",
             "geounit": "French Southern and Antarctic Lands"
@@ -5066,6 +5095,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Kenya"
@@ -5082,6 +5112,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 10193939323,
             "type": "Sovereign country",
             "geounit": "Liberia"
@@ -5101,6 +5132,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 1090923,
             "type": "Sovereign country",
             "geounit": "Libya"
@@ -5114,6 +5146,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Lesotho"
@@ -5133,6 +5166,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 109090909,
             "type": "Sovereign country",
             "geounit": "Morocco"
@@ -5146,6 +5180,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 12323,
             "type": "Sovereign country",
             "geounit": "Madagascar"
@@ -5165,6 +5200,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123423423,
             "type": "Sovereign country",
             "geounit": "Mali"
@@ -5185,6 +5221,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123234234,
             "type": "Sovereign country",
             "geounit": "Mozambique"
@@ -5202,6 +5239,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 120003,
             "type": "Sovereign country",
             "geounit": "Mauritania"
@@ -5217,6 +5255,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Malawi"
@@ -5225,6 +5264,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo unit",
             "geounit": "Mayotte"
@@ -5242,6 +5282,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Namibia"
@@ -5261,6 +5302,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Niger"
@@ -5278,6 +5320,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Nigeria"
@@ -5286,6 +5329,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo unit",
             "geounit": "Madeira"
@@ -5302,6 +5346,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Rwanda"
@@ -5318,6 +5363,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Indeterminate",
             "geounit": "Western Sahara"
@@ -5338,6 +5384,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Sovereign country",
             "geounit": "Sudan"
@@ -5356,6 +5403,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 12,
             "type": "Sovereign country",
             "geounit": "South Sudan"
@@ -5370,6 +5418,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 13,
             "type": "Geo subunit",
             "geounit": "Spain"
@@ -5384,6 +5433,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo subunit",
             "geounit": "Spain"
@@ -5403,6 +5453,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 13,
             "type": "Sovereign country",
             "geounit": "Senegal"
@@ -5418,6 +5469,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 13,
             "type": "Sovereign country",
             "geounit": "Sierra Leone"
@@ -5434,6 +5486,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 13,
             "type": "Indeterminate",
             "geounit": "Somaliland"
@@ -5450,6 +5503,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 1293,
             "type": "Geo unit",
             "geounit": "Puntland"
@@ -5466,6 +5520,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 13,
             "type": "Geo unit",
             "geounit": "Somalia"
@@ -5474,6 +5529,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 122,
             "type": "Geo subunit",
             "geounit": "Sao Tome and Principe"
@@ -5482,6 +5538,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 1200,
             "type": "Geo subunit",
             "geounit": "Sao Tome and Principe"
@@ -5496,6 +5553,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 2323,
             "type": "Sovereign country",
             "geounit": "Swaziland"
@@ -5514,6 +5572,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 2,
             "type": "Sovereign country",
             "geounit": "Chad"
@@ -5530,6 +5589,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 1223,
             "type": "Sovereign country",
             "geounit": "Togo"
@@ -5545,6 +5605,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 12003,
             "type": "Sovereign country",
             "geounit": "Tunisia"
@@ -5566,6 +5627,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 129,
             "type": "Sovereign country",
             "geounit": "Tanzania"
@@ -5574,6 +5636,7 @@ const africa = {
         {
           "type": null,
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 123,
             "type": "Geo unit",
             "geounit": "Zanzibar"
@@ -5591,6 +5654,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 122,
             "type": "Sovereign country",
             "geounit": "Uganda"
@@ -5613,6 +5677,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 1203,
             "type": "Geo subunit",
             "geounit": "South Africa"
@@ -5632,6 +5697,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 23,
             "type": "Sovereign country",
             "geounit": "Zambia"
@@ -5648,6 +5714,7 @@ const africa = {
           ],
           "type": "Polygon",
           "properties": {
+            "image": "./images/ethiopia.jpg",
             "totalmovies": 13,
             "type": "Sovereign country",
             "geounit": "Zimbabwe"
