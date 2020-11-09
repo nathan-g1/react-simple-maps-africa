@@ -4911,20 +4911,6 @@ const africa = {
         {
           "arcs": [
             [
-              69
-            ]
-          ],
-          "type": "Polygon",
-          "properties": {
-            "image": "./images/ethiopia.jpg",
-            "totalmovies": 123,
-            "type": "Geo subunit",
-            "geounit": "Spain"
-          }
-        },
-        {
-          "arcs": [
-            [
               -53,
               70,
               71,
